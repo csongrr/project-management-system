@@ -1,0 +1,1 @@
+<h1>Sajnáljuk, de a rendszer fejlesztés alatt áll, türelmét kérjük.</h1>
